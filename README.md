@@ -55,7 +55,7 @@ CSE325-Instrumentation-and-Control/
 ├── Final/             # Final examination-related materials
 ├── Midterm/           # Midterm examination-related materials
 ├── Presentation/        # Presentation slides and related resources
-├── Quiz/                # Quiz preparation materials
+├── Quiz/                # Quiz questions and preparation materials
 └── README.md
 ```
 
